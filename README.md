@@ -1,5 +1,5 @@
 **
-Assignment Title - DevOps Automation with Python – Script Collection
+Assignment Title - Python for Devops – Script Collection
 
 Description
 
@@ -107,7 +107,7 @@ Instructor: Prashant
 
 Submission Platform: Vlearn
 
-Repository Link: GitHub Repo
+Repository Link: [GitHub Repo] - https://github.com/saiyedin786/python_assignment/
 
 
 
